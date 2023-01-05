@@ -6,5 +6,5 @@ I learnt how to use flexbox layout model to create a responsive and flexible lay
 
 ## Links
 
-- [Link to the page]()
+- [Link to the page](https://tgithinji.github.io/Landing-page/)
 - [Link to the assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
